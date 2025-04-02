@@ -1,0 +1,32 @@
+.boton{
+background-color: red;
+}
+.menu{
+    background-color: blue;
+}
+nav ul{
+    list-style: none;
+}
+nav li{
+    display: inline;
+}
+aside{
+background-color:violet;
+
+}
+#gg{
+    position: absolute;
+    top:10px;
+    left: 1000px;
+}
+.botones{
+display:flex;
+position: relative;
+right: 30px;
+}
+.buscar{
+    display: flex;
+    position: relative;
+    top:10px;
+    left: 30%;
+}

@@ -1,0 +1,32 @@
+1. Inicio de Sesión/Registro:
+   - Permite al usuario loguearse o ingresar como invitado.
+   - Es el punto de partida para personalizar la experiencia según el tipo de usuario.
+
+2. Menú Principal:
+   - Contiene el buscador principal con la pregunta "¿Qué quieres comer hoy?".
+   - También incluye accesos a categorías, sugerencias de recetas y funcionalidades destacadas.
+
+3. Buscador de Recetas por Ingredientes:
+   - El núcleo de la app, donde el usuario introduce los ingredientes que tiene para obtener recetas.
+
+4. Gestión de Ingredientes:
+   - Un apartado en la barra lateral para añadir, editar o eliminar ingredientes disponibles.
+
+5. Historial:
+   - Guarda búsquedas recientes, recetas visitadas o ingredientes utilizados.
+   - Facilita retomar recetas sin necesidad de repetir búsquedas.
+
+6. Categorías y Recetas Destacadas:
+   - Una sección en el menú o barra lateral que muestra recetas por categorías (Postres, Almuerzos, etc.) o destaca platos populares y sugeridos.
+
+7. Lista de Compras:
+   - Módulo que genera una lista con los ingredientes faltantes necesarios para completar las recetas seleccionadas.
+
+8. Favoritos:
+   - Permite a los usuarios guardar sus recetas preferidas para consultarlas más tarde.
+
+9. Contacto:
+   - Apartado básico en la barra lateral para que los usuarios puedan enviar comentarios o preguntas.
+
+10. Configuraciones del Perfil:
+    - Si el usuario está logueado, permite personalizar preferencias como excluir ingredientes o elegir estilos de comida (vegetariano, sin gluten, etc.).
